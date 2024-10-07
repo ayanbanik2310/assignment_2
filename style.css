@@ -1,0 +1,13 @@
+.player-section{
+    border: 2px solid white;
+    margin-left: 10px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.guide-section{
+    border: 2px solid red;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
